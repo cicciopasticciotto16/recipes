@@ -1,2 +1,4 @@
 *.png
+!a.png
+
 pictures/
