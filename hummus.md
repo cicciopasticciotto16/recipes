@@ -1,5 +1,5 @@
 # Hummus
-## ingredients
+## Ingredients
 * chickpeas
 * lemon
 * olive oil
